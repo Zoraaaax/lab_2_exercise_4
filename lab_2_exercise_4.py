@@ -4,3 +4,4 @@ def inverted_triangle(height)
 
 
 try:
+    height = int(input("Enter the height of the triangle: "))
