@@ -8,3 +8,5 @@ try:
     if height < 1:
         print("Invalid! Height must be 1 or greater.")
     else:
+        inverted_triangle(height)
+        
