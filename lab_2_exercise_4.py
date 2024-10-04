@@ -9,4 +9,5 @@ try:
         print("Invalid! Height must be 1 or greater.")
     else:
         inverted_triangle(height)
-        
+
+except ValueError:
